@@ -1,5 +1,3 @@
-import re
-
 print("Password Strength Determiner!\n")
 
 def strengthDeterminer(line):
